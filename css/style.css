@@ -26,6 +26,19 @@ header
     animation-iteration-count: infinite;
 }
 
+#upBtn
+{
+    background-color: #0078ff;
+    color: white;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    padding: 12px;
+    font-size: 18px;
+    z-index: 999;
+    display: none;
+}
+
 nav
 {
     transition: background-color 1s;
