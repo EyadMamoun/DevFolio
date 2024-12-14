@@ -26,6 +26,11 @@ header
     animation-iteration-count: infinite;
 }
 
+nav
+{
+    transition: background-color 1s;
+}
+
 nav .navbar-nav
 {
     width: 60%;
